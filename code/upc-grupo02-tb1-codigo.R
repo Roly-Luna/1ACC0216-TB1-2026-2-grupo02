@@ -31,7 +31,7 @@ library(ggplot2)
 
 # cargar datos
 hotel_original <- read.table(
-  "data/hotel_bookings.csv",
+  "data/hotel_bookings_original.csv",
   header = TRUE,
   sep = ",",
   dec = ".",
