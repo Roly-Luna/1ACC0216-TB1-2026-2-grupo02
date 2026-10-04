@@ -46,4 +46,6 @@ El dataset Hotel Booking Demand contiene informacion sobre reservas realizadas e
 
 ## Licencia
 
-Este repositorio fue desarrollado con fines academicos para el curso Fundamentos de Data Science de la Universidad Peruana de Ciencias Aplicadas.
+El codigo y la documentacion de este repositorio fueron desarrollados con fines academicos para el curso Fundamentos de Data Science de la Universidad Peruana de Ciencias Aplicadas.
+
+El dataset utilizado mantiene los terminos y condiciones establecidos por su fuente original.
